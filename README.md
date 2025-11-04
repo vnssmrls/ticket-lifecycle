@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2> Ticket Lifecycle Stages</h2>
 
 - Intake
 - Assignment and Communication
@@ -52,7 +52,7 @@ Help Desk Agent (John) -> Agent Panel -> Reviews ticket properties: Priority, De
 <img src="https://i.imgur.com/ZU0FMDH.png" height="80%" width="80%" alt="assg and comm"/>
 </p>
 
-<h4>3. Working the Issue</h4>
+<h4> Working the Issue</h4>
 <p>
  Agent (Jane) begins diagnosing the outage and confirms the scope of impact -> Escalates to the SysAdmins department if further investigation is required -> Tracks all updates and progress within osTicket -> All actions and communications are automatically logged in the ticket thread
 </p>
@@ -62,7 +62,7 @@ Help Desk Agent (John) -> Agent Panel -> Reviews ticket properties: Priority, De
 </p>
 
 <p>
-<h4>4. Resolution</h4>
+<h4> Resolution</h4>
 <p>
  Agent (Jane) verifies that the online banking system is restored -> Updates the ticket with detailed resolution notes -> Sets the ticket status to <b>Resolved</b> or <b>Closed</b> -> End-user receives an automated email confirming the issue has been resolved.
 </p>
